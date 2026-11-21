@@ -8,7 +8,7 @@
 
 JacaStock es un prototipo académico desarrollado por Jacaranda Labs para facilitar el control básico del inventario en tiendas de abarrotes. Permite registrar productos y movimientos de mercancía, consultar existencias y generar reportes. El proyecto también incluye una propuesta de negocio y su análisis económico.
 
-Este repositorio reúne el código fuente, las pruebas automatizadas, la documentación técnica, el informe para Overleaf y la presentación comercial. El trabajo está organizado para que los integrantes del equipo puedan revisar y actualizar sus respectivas áreas.
+Este repositorio reúne el código fuente, las pruebas automatizadas, la documentación técnica y la presentación comercial. El trabajo está organizado para que los integrantes del equipo puedan revisar y actualizar sus respectivas áreas.
 
 ## Requisitos
 
