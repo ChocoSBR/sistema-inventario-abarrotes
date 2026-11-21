@@ -1,4 +1,4 @@
-# 🪻 JacaStock | Jacaranda Labs
+# 🪻 JacaStock by Jacaranda Labs
 
 **Sistema de inventario para pequeñas tiendas de abarrotes**  
 **Eslogan:** Organiza tu inventario, mejora tu negocio.  
