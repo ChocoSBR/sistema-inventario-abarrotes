@@ -2,7 +2,7 @@
 
 **Sistema de inventario para pequeñas tiendas de abarrotes**  
 **Eslogan:** Organiza tu inventario, mejora tu negocio.  
-**Proyecto:** Introducción a la Economía · Grupo 9 · UNAM
+**Proyecto:** Introducción a la Economía (1413) · Grupo 9 · UNAM
 
 ## Descripción
 
